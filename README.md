@@ -51,8 +51,7 @@ python-tp-uniq/
 │   └── ...
 │
 └── ressources/
-    ├── rappel-syntaxe.md
-    └── erreurs-courantes.md
+   
 ```
 
 Chaque dossier correspond à une séance de TP.
